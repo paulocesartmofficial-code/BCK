@@ -1,0 +1,6 @@
+{
+  "name": "BCK",
+  "description": "BCK - Loan Management & Receipt Generator App for personal lending, installment tracking, digital receipts, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
